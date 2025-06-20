@@ -20,8 +20,8 @@ Antes de executar o notebook, certifique-se de que:
    No topo da interface, selecione um cluster disponível no menu suspenso.
 
 3. **Importar o arquivo ‘ab_test_ref.csv’**  
-   Antes de executar o Notebook, importar o arquivo ‘ab_test_ref.csv’, em anexo, através do Catalog. 
-  No Catalog, clique no botão “+” no canto superior esquerdo, próximo a engrenagem, e arraste o arquivo para criar a tabela com o nome ‘workspace.default.ab_test_ref’.
+   Antes de executar o Notebook, importar o arquivo ‘ab_test_ref.csv’ localizado no link (https://data-architect-test-source.s3-sa-east-1.amazonaws.com/ab_test_ref.tar.gz), através do Catalog. 
+   No Catalog, clique no botão “+” no canto superior esquerdo, próximo a engrenagem, e arraste o arquivo para criar a tabela com o nome ‘workspace.default.ab_test_ref’.
 
 4. **Execute as células sequencialmente**  
    - Para executar célula por célula: clique na célula e pressione `Shift + Enter`.
