@@ -14,8 +14,7 @@ Antes de executar o notebook, certifique-se de que:
 ## Etapas de Execução
 
 1. **Acesse o notebook**  
-   Link direto: [Abrir notebook no Databricks](https://dbc-24762493-8a34.cloud.databricks.com/editor/notebooks/307249932367585?o=635955167482653)
-   Ou importar o arquivo DBC em anexo.
+   Link direto: [Abrir notebook no Databricks](https://dbc-24762493-8a34.cloud.databricks.com/editor/notebooks/307249932367585?o=635955167482653) ou importar o arquivo DBC em anexo no Databricks do usuário.
 
 3. **Conectar o notebook a um cluster ativo**  
    No topo da interface, selecione um cluster disponível no menu suspenso.
